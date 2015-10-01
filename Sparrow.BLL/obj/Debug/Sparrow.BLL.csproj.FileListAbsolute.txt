@@ -1,0 +1,5 @@
+C:\Users\Timothy.Timothy-HP\Documents\Visual Studio 2015\Projects\Sparrow\Sparrow.BLL\bin\Debug\Sparrow.BLL.exe.config
+C:\Users\Timothy.Timothy-HP\Documents\Visual Studio 2015\Projects\Sparrow\Sparrow.BLL\bin\Debug\Sparrow.BLL.exe
+C:\Users\Timothy.Timothy-HP\Documents\Visual Studio 2015\Projects\Sparrow\Sparrow.BLL\bin\Debug\Sparrow.BLL.pdb
+C:\Users\Timothy.Timothy-HP\Documents\Visual Studio 2015\Projects\Sparrow\Sparrow.BLL\obj\Debug\Sparrow.BLL.exe
+C:\Users\Timothy.Timothy-HP\Documents\Visual Studio 2015\Projects\Sparrow\Sparrow.BLL\obj\Debug\Sparrow.BLL.pdb

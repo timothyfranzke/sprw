@@ -1,0 +1,10 @@
+C:\Users\Timothy.Timothy-HP\Documents\Visual Studio 2015\Projects\Sparrow\Sparrow.Data.Tests\bin\Debug\Sparrow.Data.Tests.dll
+C:\Users\Timothy.Timothy-HP\Documents\Visual Studio 2015\Projects\Sparrow\Sparrow.Data.Tests\bin\Debug\Sparrow.Data.Tests.pdb
+C:\Users\Timothy.Timothy-HP\Documents\Visual Studio 2015\Projects\Sparrow\Sparrow.Data.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Timothy.Timothy-HP\Documents\Visual Studio 2015\Projects\Sparrow\Sparrow.Data.Tests\bin\Debug\Sparrow.Data.exe
+C:\Users\Timothy.Timothy-HP\Documents\Visual Studio 2015\Projects\Sparrow\Sparrow.Data.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Timothy.Timothy-HP\Documents\Visual Studio 2015\Projects\Sparrow\Sparrow.Data.Tests\bin\Debug\Sparrow.Data.pdb
+C:\Users\Timothy.Timothy-HP\Documents\Visual Studio 2015\Projects\Sparrow\Sparrow.Data.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Timothy.Timothy-HP\Documents\Visual Studio 2015\Projects\Sparrow\Sparrow.Data.Tests\obj\Debug\Sparrow.Data.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Timothy.Timothy-HP\Documents\Visual Studio 2015\Projects\Sparrow\Sparrow.Data.Tests\obj\Debug\Sparrow.Data.Tests.dll
+C:\Users\Timothy.Timothy-HP\Documents\Visual Studio 2015\Projects\Sparrow\Sparrow.Data.Tests\obj\Debug\Sparrow.Data.Tests.pdb

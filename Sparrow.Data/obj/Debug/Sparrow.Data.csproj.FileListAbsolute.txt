@@ -1,0 +1,9 @@
+C:\Users\Timothy.Timothy-HP\Documents\Visual Studio 2015\Projects\Sparrow\Sparrow.Data\bin\Debug\Sparrow.Data.exe.config
+C:\Users\Timothy.Timothy-HP\Documents\Visual Studio 2015\Projects\Sparrow\Sparrow.Data\bin\Debug\Sparrow.Data.exe
+C:\Users\Timothy.Timothy-HP\Documents\Visual Studio 2015\Projects\Sparrow\Sparrow.Data\bin\Debug\Sparrow.Data.pdb
+C:\Users\Timothy.Timothy-HP\Documents\Visual Studio 2015\Projects\Sparrow\Sparrow.Data\bin\Debug\EntityFramework.dll
+C:\Users\Timothy.Timothy-HP\Documents\Visual Studio 2015\Projects\Sparrow\Sparrow.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Timothy.Timothy-HP\Documents\Visual Studio 2015\Projects\Sparrow\Sparrow.Data\bin\Debug\EntityFramework.xml
+C:\Users\Timothy.Timothy-HP\Documents\Visual Studio 2015\Projects\Sparrow\Sparrow.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Timothy.Timothy-HP\Documents\Visual Studio 2015\Projects\Sparrow\Sparrow.Data\obj\Debug\Sparrow.Data.exe
+C:\Users\Timothy.Timothy-HP\Documents\Visual Studio 2015\Projects\Sparrow\Sparrow.Data\obj\Debug\Sparrow.Data.pdb
